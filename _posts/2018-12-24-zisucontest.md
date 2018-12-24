@@ -694,8 +694,8 @@ int main(){
             }
         }
     }
-    for(int i = 0;i<n;i++)
-    cout<<strlen(s[i])<<endl;
+   // for(int i = 0;i<n;i++)
+   // cout<<strlen(s[i])<<endl;
     int day;
     scanf("%d",&day);
     for(int x = 0;x<day-1;x++){
