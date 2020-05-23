@@ -11,11 +11,11 @@ Gallery 使用 pyecharts 1.1.0
 """
 
 inner_x_data = ["CryptoMarket", "ShareMarket", "Fund","cash"]
-inner_y_data = [125778.89, 25914.6, 6260.56,68694.0]
+inner_y_data = [129587.51, 19158.40, 6913.08,68694.0]
 inner_data_pair = [list(z) for z in zip(inner_x_data, inner_y_data)]
 
-outer_x_data = ["Okex", "Huobi-account1", "Huobi-account2", "Huobi-account3", "Binance","格力电器","创业板","信息技术","券商ETF","建信500","中证环保","中证红利","中证传媒","中证500","全指金融","恒生指数","cash"]
-outer_y_data = [13206.89, 25922.86, 26442.8, 24902.48, 35303.86,5802.0,7831.8,7263.2,5017.6,1702.37,887.11,1089.51,490.84,398.53, 593.99, 597.69,68694.0]
+outer_x_data = ["Okex", "Huobi-account1", "Huobi-account2", "Huobi-account3", "Binance","OKB","创业板","信息技术","券商ETF","建信500","中证环保","中证红利","中证传媒","中证500","全指金融","恒生指数","cash"]
+outer_y_data = [12116.34, 25697.99, 26827.78, 25788.1, 35161.34,3998.89,7493.6,6848.8,4816.00,1702.37,887.11,1089.51,490.84,398.53, 593.99, 597.69,68694.0]
 outer_data_pair = [list(z) for z in zip(outer_x_data, outer_y_data)]
 
 (
