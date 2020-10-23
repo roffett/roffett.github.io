@@ -1,13 +1,13 @@
 # Site settings
-title: 一个程序员的独白
-SEOTitle: roffett的博客 | MY Blog
+title: All in blockchain 的打工人
+SEOTitle: roffett的博客 | Bitcoiner
 header-img: img/apple01.jpg
 email: 326516742@qq.com
-description: "Every failure is leading towards success."
-keyword: "ACM,ZISU,roffett,浙江外国语学院"
+description: "bitcoin to da moon"
+keyword: "roffett,bitcoiner"
 url: "http://roffett.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/roffett/roffett.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
@@ -97,12 +97,6 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "POJ",
-        href: "http://poj.org"
-    },{
-        title: "HDU",
-        href: "http://acm.hdu.edu.cn/"
-    }
-]
+# friends: [
+    
+# ]
